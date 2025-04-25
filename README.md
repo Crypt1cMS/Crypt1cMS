@@ -18,6 +18,8 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="30" alt="flutter logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
