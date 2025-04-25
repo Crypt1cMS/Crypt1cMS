@@ -20,8 +20,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nextdotjs/FFF" height="30" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
